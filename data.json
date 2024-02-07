@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "spaghetti",
+        "price": 600.00,
+        "description": "Food"
+    },
+    {
+        "id": 2,
+        "name": "fried chicken",
+        "price": 500.00,
+        "description": "Food"
+    },
+    {
+        "id": 3,
+        "name": "pancit cantoon",
+        "price": 25.00,
+        "description": "Food"
+    },
+    {
+        "id": 4,
+        "name": "siomai rice",
+        "price": 35.00,
+        "description": "Food"
+    }
+]
