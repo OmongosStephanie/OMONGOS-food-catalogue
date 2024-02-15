@@ -1,1 +1,0 @@
-# OMONGOS-food-catalogue
