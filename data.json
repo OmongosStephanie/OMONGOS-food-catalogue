@@ -3,24 +3,24 @@
         "id": 1,
         "name": "spaghetti",
         "price": 600.00,
-        "description": "Food"
+        "description": "A classic Italian pasta dish made with long, thin noodles, typically topped with a tomato-based sauce and often served with meatballs or grated cheese."
     },
     {
         "id": 2,
         "name": "fried chicken",
         "price": 500.00,
-        "description": "Food"
+        "description": " Crispy and juicy chicken pieces that are breaded and deep-fried until golden brown, creating a deliciously crunchy exterior while maintaining moist and tender meat inside."
     },
     {
         "id": 3,
         "name": "pancit cantoon",
         "price": 25.00,
-        "description": "Food"
+        "description": "A Filipino stir-fried noodle dish made with egg noodles, vegetables, meat (such as pork, chicken, or shrimp), and soy sauce. It is commonly served during celebrations and gatherings."
     },
     {
         "id": 4,
         "name": "siomai rice",
         "price": 35.00,
-        "description": "Food"
+        "description": "A popular Filipino dish consisting of steamed or fried dumplings filled with a mixture of ground pork, shrimp, and seasonings, served alongside steamed rice. Siomai is often accompanied by a dipping sauce made with soy sauce, calamansi juice, and chili.        "
     }
 ]
